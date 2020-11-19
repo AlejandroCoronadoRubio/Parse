@@ -1,0 +1,7 @@
+A:\ACoronado\Parse\bin\Debug\Parse.exe.config
+A:\ACoronado\Parse\bin\Debug\Parse.exe
+A:\ACoronado\Parse\bin\Debug\Parse.pdb
+A:\ACoronado\Parse\obj\Debug\Parse.csprojAssemblyReference.cache
+A:\ACoronado\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+A:\ACoronado\Parse\obj\Debug\Parse.exe
+A:\ACoronado\Parse\obj\Debug\Parse.pdb
