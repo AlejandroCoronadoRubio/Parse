@@ -1,4 +1,4 @@
 - Project running on Net Framework 4.5
 - No dependencies
-- Run the application from Visual Studio, open the .sln file to run the project
+- Run the application from Visual Studio, open the Parse.sln file to run the project
 - Only Windows supported
