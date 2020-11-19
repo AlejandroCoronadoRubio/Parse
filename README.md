@@ -1,4 +1,4 @@
 - Project running on Net Framework 4.5
-- No dependencies
+- Dependencies : MSTest 2.1.1
 - Run the application from Visual Studio, open the Parse.sln file to run the project
 - Only Windows supported
